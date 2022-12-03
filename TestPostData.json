@@ -1,4 +1,5 @@
-  [
+{
+posts: [
     postID = 1,
     post = {
       username: 'theblockchainarborist',
@@ -24,3 +25,4 @@
       message: 'Test4 Message Here For Testing Purposes!'
     }
   ]
+}
